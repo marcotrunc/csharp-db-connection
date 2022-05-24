@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "csharp-db-connection", "csharp-db-connection.csproj", "{193C4089-55E2-4330-90BA-5A3CE8F40F8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{193C4089-55E2-4330-90BA-5A3CE8F40F8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{193C4089-55E2-4330-90BA-5A3CE8F40F8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{193C4089-55E2-4330-90BA-5A3CE8F40F8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{193C4089-55E2-4330-90BA-5A3CE8F40F8E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1568A1F5-3F67-4DC2-AF28-3004243CB650}
+	EndGlobalSection
+EndGlobal
